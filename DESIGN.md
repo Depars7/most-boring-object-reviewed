@@ -40,7 +40,7 @@ Plus: "The best of these make the object's own dullness the joke."
 - **True detail (criteria 2–3):** everyone who has ever swept knows the last thin
   line of dust that refuses to go into the pan, no matter how many passes you make.
   The laugh arrives with recognition, not with a gag pasted on.
-- **Tight (criterion 4):** 108 characters, one sentence, every word earns its place.
+- **Tight (criterion 4):** 105 characters, one sentence, every word earns its place.
 - **Lands fast (criterion 5):** the turn ("entire career is cleaning up after the
   broom") comes early, and the last words sharpen it ("still can't get the last
   line of dust") instead of trailing off into sentiment.
@@ -51,4 +51,4 @@ Plus: "The best of these make the object's own dullness the joke."
 ## Final entry (exact, verified by code)
 > The dustpan's entire career is cleaning up after the broom, and it still can't get the last line of dust.
 
-108 characters, one line, no trailing newline in the output file.
+105 characters, one line, no trailing newline in the output file.
